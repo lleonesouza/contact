@@ -1,8 +1,8 @@
 
 
 
-<h2>my contact page#####</h2>
-<a href='https://lleonesouza.github.io/contact/'> live demo </a>
+<h2>live demo: <a href='https://lleonesouza.github.io/contact/'> contact me </a></h2>
+
            
        
 
